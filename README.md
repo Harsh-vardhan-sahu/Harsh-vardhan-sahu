@@ -45,7 +45,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/harshvardhan sahu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshvardhan sahu" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/harshvardhan_sahu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="harshvardhan_sahu" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/harsh-vardhan-sahu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="harsh-vardhan-sahu" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/harsh-vardhan-sahu" target="blank"><img align="center" src="https://1000logos.net/gmail-logo/" alt="harsh-vardhan-sahu" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
