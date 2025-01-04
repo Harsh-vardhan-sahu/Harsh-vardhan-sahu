@@ -1,7 +1,7 @@
-<h2 align="centre">Hi 👋! I'm Harsh Vardhan Sahu</h2>
+<h2 align="center">Hi 👋! I'm Harsh Vardhan Sahu</h2>
 
 ###
-
+<h3 align="center">A passionate Full Stack developer</h3>
 <img align="right" height="160" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExejAwajZncDV3MTlncWozZW56NTl4Z2Z3enY5dXo0N3NtYnN0NXJnMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif"  />
 
 ###
@@ -44,7 +44,7 @@
   </a>
   
 </div>
-<h3 align="center">A passionate Full Stack developer</h3>
+
 
 - 🌱 I’m currently learning **Google Cloud,Machine Learing**
 
@@ -61,7 +61,6 @@
 </p>
 
 
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/HarshVardhan_Sahu?theme=dark&font=Angkor)
 
