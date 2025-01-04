@@ -2,7 +2,7 @@
 
 ###
 <h3 align="center">A passionate Full Stack developer</h3>
-<img align="right" height="360" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExejAwajZncDV3MTlncWozZW56NTl4Z2Z3enY5dXo0N3NtYnN0NXJnMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif"  />
+<img align="right" height="240" width="200"src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExejAwajZncDV3MTlncWozZW56NTl4Z2Z3enY5dXo0N3NtYnN0NXJnMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif"  />
 
 ###
 <h3 align="left">Languages and Tools:</h3>
