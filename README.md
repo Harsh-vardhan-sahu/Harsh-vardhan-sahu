@@ -1,24 +1,37 @@
-<h2 align="left">Hi 👋! I'm Harsh Vardhan Sahu</h2>
+<h2 align="centre">Hi 👋! I'm Harsh Vardhan Sahu</h2>
 
 ###
 
 <img align="right" height="160" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExejAwajZncDV3MTlncWozZW56NTl4Z2Z3enY5dXo0N3NtYnN0NXJnMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif"  />
 
 ###
-
+<h3 align="left">Languages and Tools:</h3>
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo" />
+  </a>
   <img width="18" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="50" alt="googlecloud logo"  />
+  <a href="https://cloud.google.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="50" alt="googlecloud logo" />
+  </a>
   <img width="18" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" alt="cplusplus logo"  />
+  <a href="https://cplusplus.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" alt="cplusplus logo" />
+  </a>
   <img width="18" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="50" alt="flutter logo"  />
+  <a href="https://flutter.dev/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="50" alt="flutter logo" />
+  </a>
   <img width="18" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="50" alt="dart logo"  />
+  <a href="https://dart.dev/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="50" alt="dart logo" />
+  </a>
   <img width="18" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="50" alt="firebase logo"  />
+  <a href="https://firebase.google.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="50" alt="firebase logo" />
+  </a>
 </div>
+
 
 ###
 
@@ -47,7 +60,7 @@
 <a href="harshvardhansahoo7115@gmail.com" target="blank"><img align="center" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciICB2aWV3Qm94PSIwIDAgNDggNDgiIHdpZHRoPSI0OHB4IiBoZWlnaHQ9IjQ4cHgiPjxwYXRoIGZpbGw9IiM0Y2FmNTAiIGQ9Ik00NSwxNi4ybC01LDIuNzVsLTUsNC43NUwzNSw0MGg3YzEuNjU3LDAsMy0xLjM0MywzLTNWMTYuMnoiLz48cGF0aCBmaWxsPSIjMWU4OGU1IiBkPSJNMywxNi4ybDMuNjE0LDEuNzFMMTMsMjMuN1Y0MEg2Yy0xLjY1NywwLTMtMS4zNDMtMy0zVjE2LjJ6Ii8+PHBvbHlnb24gZmlsbD0iI2U1MzkzNSIgcG9pbnRzPSIzNSwxMS4yIDI0LDE5LjQ1IDEzLDExLjIgMTIsMTcgMTMsMjMuNyAyNCwzMS45NSAzNSwyMy43IDM2LDE3Ii8+PHBhdGggZmlsbD0iI2M2MjgyOCIgZD0iTTMsMTIuMjk4VjE2LjJsMTAsNy41VjExLjJMOS44NzYsOC44NTlDOS4xMzIsOC4zMDEsOC4yMjgsOCw3LjI5OCw4aDBDNC45MjQsOCwzLDkuOTI0LDMsMTIuMjk4eiIvPjxwYXRoIGZpbGw9IiNmYmMwMmQiIGQ9Ik00NSwxMi4yOThWMTYuMmwtMTAsNy41VjExLjJsMy4xMjQtMi4zNDFDMzguODY4LDguMzAxLDM5Ljc3Miw4LDQwLjcwMiw4aDAgQzQzLjA3Niw4LDQ1LDkuOTI0LDQ1LDEyLjI5OHoiLz48L3N2Zz4=" alt="harsh-vardhan-sahu" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/HarshVardhan_Sahu?theme=dark&font=Angkor)
