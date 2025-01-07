@@ -59,9 +59,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harsh-vardhan-sahu&show_icons=true&locale=en" alt="harsh-vardhan-sahu" /></p>
 
-<div style="text-align: center;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harsh-vardhan-sahu&" alt="harsh-vardhan-sahu" />
-</div>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Harsh-vardhan-sahu&theme=highcontrast&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh-vardhan-sahu&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 
