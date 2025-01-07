@@ -52,7 +52,9 @@
   <a href="https://firebase.google.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="50" alt="firebase logo" />
   </a>
+
 </div>
+
 
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/HarshVardhan_Sahu?theme=dark&font=Angkor)
@@ -62,9 +64,12 @@
 
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh-vardhan-sahu&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-<div align="center" >
+
+<div align="center">
+
   ![snake gif](https://github.com/Harsh-vardhan-sahu/Harsh-vardhan-sahu/blob/output/github-snake-dark.svg)
 </div>
+
 
 
 
