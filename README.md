@@ -58,7 +58,7 @@
 ![LeetCode Stats](https://leetcard.jacoblin.cool/HarshVardhan_Sahu?theme=dark&font=Angkor)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harsh-vardhan-sahu&show_icons=true&locale=en" alt="harsh-vardhan-sahu" /></p>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Harsh-vardhan-sahu&theme=dark)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Harsh-vardhan-sahu&theme=dark" alt="GitHub Streak" /></a>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh-vardhan-sahu&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
