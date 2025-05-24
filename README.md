@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Google Cloud,Machine Learing**
 
-- 👯 I’m looking to collaborate on **Machine Learning Projects**
+- I’m looking to collaborate on **Machine Learning Projects**
 
 - 💬 Ask me about **Flutter,Dart,C++,Firebase**
 
