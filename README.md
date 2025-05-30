@@ -3,7 +3,6 @@
 ###
 <h3 align="center">A passionate Full Stack developer</h3>
 <img align="right" height="360" width="400"src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExejAwajZncDV3MTlncWozZW56NTl4Z2Z3enY5dXo0N3NtYnN0NXJnMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif"  />
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Harsh-vardhan-sahu&label=Profile%20views&color=0e75b6&style=flat" alt="Harsh-vardhan-sahu" /> </p>
 
 
 ###
